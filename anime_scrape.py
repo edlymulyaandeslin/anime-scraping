@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 from datetime import datetime
-from db import engine
+from db import engine, text
 import json
 
 def extract_genre(url):
@@ -171,6 +171,23 @@ def load_anime_to_silver_layer(df):
         chunksize=1000
     )
 
+def load_top_rating_20():
+    with engine.begin() as conn:
+        conn.execute(text("""
+            CREATE OR ALTER VIEW gold.top_rating_20 AS
+                SELECT TOP (20) [title]
+                    ,[studio]
+                    ,[episode]
+                    ,[rating]
+                    ,[genre]
+                    ,[subgenre]
+                    ,[synopsis]
+                FROM [silver].[anime]
+                WHERE rating > 8.9
+                ORDER BY rating DESC
+            """)
+        )
+
 def log_progress(message):
     timestamp = f"%Y-%m-%d %H:%M:%S"
     now = datetime.now()
@@ -209,3 +226,6 @@ animes = transform_silver_layer()
 
 log_progress(f"Load data anime to silver layer...")
 load_anime_to_silver_layer(animes)
+
+log_progress(f"Load top 20 anime by rating...")
+load_top_rating_20()
