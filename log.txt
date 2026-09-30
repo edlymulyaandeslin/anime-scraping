@@ -1,0 +1,163 @@
+2026-09-30 08:45:58: Extracting genres...
+2026-09-30 08:45:59: Load data genre to db...
+2026-09-30 08:46:00: Read data genre from db...
+2026-09-30 08:46:00: Extracting anime from genre...
+2026-09-30 08:46:00: 1. Action genre
+2026-09-30 08:46:28: 2. Adventure genre
+2026-09-30 08:46:42: 3. Comedy genre
+2026-09-30 08:47:55: Extracting genres...
+2026-09-30 08:47:56: Load data genre to db...
+2026-09-30 08:47:56: Read data genre from db...
+2026-09-30 08:47:56: Extracting anime from genre...
+2026-09-30 08:47:56: 1. Action genre
+2026-09-30 08:48:23: 2. Adventure genre
+2026-09-30 08:48:37: 3. Comedy genre
+2026-09-30 08:49:09: 4. Demons genre
+2026-09-30 08:49:11: 5. Drama genre
+2026-09-30 08:49:25: 6. Ecchi genre
+2026-09-30 08:49:30: 7. Fantasy genre
+2026-09-30 08:49:56: 8. Game genre
+2026-09-30 08:49:58: 9. Harem genre
+2026-09-30 08:50:04: 10. Historical genre
+2026-09-30 08:50:08: 11. Horror genre
+2026-09-30 08:50:10: 12. Josei genre
+2026-09-30 08:50:11: 13. Magic genre
+2026-09-30 08:50:16: 14. Martial Arts genre
+2026-09-30 08:50:17: 15. Mecha genre
+2026-09-30 08:50:20: 16. Military genre
+2026-09-30 08:50:23: 17. Music genre
+2026-09-30 08:50:26: 18. Mystery genre
+2026-09-30 08:50:31: 19. Psychological genre
+2026-09-30 08:50:35: 20. Parody genre
+2026-09-30 08:50:36: 21. Police genre
+2026-09-30 08:54:46: Extracting genres...
+2026-09-30 08:54:46: Load data genre to db...
+2026-09-30 08:54:46: Read data genre from db...
+2026-09-30 08:54:46: Extracting anime from genre...
+2026-09-30 08:54:46: 1. Action genre
+2026-09-30 08:55:14: 2. Adventure genre
+2026-09-30 08:55:29: 3. Comedy genre
+2026-09-30 08:55:59: 4. Demons genre
+2026-09-30 08:56:01: 5. Drama genre
+2026-09-30 08:56:16: 6. Ecchi genre
+2026-09-30 08:56:21: 7. Fantasy genre
+2026-09-30 08:56:48: 8. Game genre
+2026-09-30 08:56:51: 9. Harem genre
+2026-09-30 08:56:57: 10. Historical genre
+2026-09-30 08:57:01: 11. Horror genre
+2026-09-30 08:57:03: 12. Josei genre
+2026-09-30 08:57:05: 13. Magic genre
+2026-09-30 08:57:09: 14. Martial Arts genre
+2026-09-30 08:57:11: 15. Mecha genre
+2026-09-30 08:57:13: 16. Military genre
+2026-09-30 08:57:17: 17. Music genre
+2026-09-30 08:57:20: 18. Mystery genre
+2026-09-30 08:57:26: 19. Psychological genre
+2026-09-30 08:57:30: 20. Parody genre
+2026-09-30 08:57:31: 21. Police genre
+2026-09-30 08:57:31: 22. Romance genre
+2026-09-30 08:57:52: 23. Samurai genre
+2026-09-30 08:57:53: 24. School genre
+2026-09-30 08:58:14: 25. Sci-Fi genre
+2026-09-30 08:58:23: 26. Seinen genre
+2026-09-30 08:58:33: 27. Shoujo genre
+2026-09-30 08:58:36: 28. Shoujo Ai genre
+2026-09-30 08:58:37: 29. Shounen genre
+2026-09-30 08:58:54: 30. Slice of Life genre
+2026-09-30 08:59:05: 31. Sports genre
+2026-09-30 08:59:09: 32. Space genre
+2026-09-30 08:59:09: 33. Super Power genre
+2026-09-30 08:59:13: 34. Supernatural genre
+2026-09-30 08:59:27: 35. Thriller genre
+2026-09-30 08:59:28: 36. Vampire genre
+2026-09-30 08:59:31: Load data anime to db...
+2026-09-30 09:02:55: Extracting genres...
+2026-09-30 09:02:56: Load data genre to db...
+2026-09-30 09:15:01: Extracting genres...
+2026-09-30 09:15:01: Load data genre to db...
+2026-09-30 09:15:02: Read data genre from db...
+2026-09-30 09:15:02: Extracting anime from genre...
+2026-09-30 09:15:02: 1. Action genre
+2026-09-30 09:17:09: 2. Adventure genre
+2026-09-30 09:17:38: 3. Comedy genre
+2026-09-30 09:18:13: 4. Demons genre
+2026-09-30 09:18:17: 5. Drama genre
+2026-09-30 09:18:33: 6. Ecchi genre
+2026-09-30 09:19:19: 7. Fantasy genre
+2026-09-30 09:20:48: 8. Game genre
+2026-09-30 09:20:51: 9. Harem genre
+2026-09-30 09:21:34: 10. Historical genre
+2026-09-30 09:21:40: 11. Horror genre
+2026-09-30 09:21:43: 12. Josei genre
+2026-09-30 09:21:45: 13. Magic genre
+2026-09-30 09:22:28: 14. Martial Arts genre
+2026-09-30 09:22:29: 15. Mecha genre
+2026-09-30 09:22:32: 16. Military genre
+2026-09-30 09:22:35: 17. Music genre
+2026-09-30 09:22:38: 18. Mystery genre
+2026-09-30 09:22:46: 19. Psychological genre
+2026-09-30 09:22:50: 20. Parody genre
+2026-09-30 09:22:52: 21. Police genre
+2026-09-30 09:22:52: 22. Romance genre
+2026-09-30 09:23:23: 23. Samurai genre
+2026-09-30 09:23:25: 24. School genre
+2026-09-30 09:24:13: 25. Sci-Fi genre
+2026-09-30 09:24:26: 26. Seinen genre
+2026-09-30 09:25:00: 27. Shoujo genre
+2026-09-30 09:25:07: 28. Shoujo Ai genre
+2026-09-30 09:25:08: 29. Shounen genre
+2026-09-30 09:25:40: 30. Slice of Life genre
+2026-09-30 09:25:59: 31. Sports genre
+2026-09-30 09:26:02: 32. Space genre
+2026-09-30 09:26:03: 33. Super Power genre
+2026-09-30 09:26:08: 34. Supernatural genre
+2026-09-30 09:26:29: 35. Thriller genre
+2026-09-30 09:26:31: 36. Vampire genre
+2026-09-30 09:26:34: Load data anime to db...
+2026-09-30 10:19:17: Transform from bronze to silver layer...
+2026-09-30 10:19:17: Load data anime to silver layer...
+2026-09-30 10:20:21: Transform from bronze to silver layer...
+2026-09-30 10:20:21: Load data anime to silver layer...
+2026-09-30 10:25:02: Extracting genres...
+2026-09-30 10:25:03: Load data genre to gold layer...
+2026-09-30 10:25:03: Read data genre from db...
+2026-09-30 10:25:03: Extracting anime from genre...
+2026-09-30 10:25:03: 1. Action genre
+2026-09-30 10:26:01: 2. Adventure genre
+2026-09-30 10:26:17: 3. Comedy genre
+2026-09-30 10:26:48: 4. Demons genre
+2026-09-30 10:26:51: 5. Drama genre
+2026-09-30 10:27:05: 6. Ecchi genre
+2026-09-30 10:27:11: 7. Fantasy genre
+2026-09-30 10:27:53: 8. Game genre
+2026-09-30 10:27:56: 9. Harem genre
+2026-09-30 10:28:08: 10. Historical genre
+2026-09-30 10:28:13: 11. Horror genre
+2026-09-30 10:28:15: 12. Josei genre
+2026-09-30 10:28:16: 13. Magic genre
+2026-09-30 10:28:21: 14. Martial Arts genre
+2026-09-30 10:28:22: 15. Mecha genre
+2026-09-30 10:28:25: 16. Military genre
+2026-09-30 10:28:28: 17. Music genre
+2026-09-30 10:28:31: 18. Mystery genre
+2026-09-30 10:28:41: 19. Psychological genre
+2026-09-30 10:28:45: 20. Parody genre
+2026-09-30 10:28:46: 21. Police genre
+2026-09-30 10:28:46: 22. Romance genre
+2026-09-30 10:29:11: 23. Samurai genre
+2026-09-30 10:29:12: 24. School genre
+2026-09-30 10:29:34: 25. Sci-Fi genre
+2026-09-30 10:29:44: 26. Seinen genre
+2026-09-30 10:30:00: 27. Shoujo genre
+2026-09-30 10:30:03: 28. Shoujo Ai genre
+2026-09-30 10:30:05: 29. Shounen genre
+2026-09-30 10:30:23: 30. Slice of Life genre
+2026-09-30 10:30:41: 31. Sports genre
+2026-09-30 10:30:54: 32. Space genre
+2026-09-30 10:30:55: 33. Super Power genre
+2026-09-30 10:30:59: 34. Supernatural genre
+2026-09-30 10:31:18: 35. Thriller genre
+2026-09-30 10:31:19: 36. Vampire genre
+2026-09-30 10:31:22: Load data anime to bronze layer...
+2026-09-30 10:31:24: Transform from bronze to silver layer...
+2026-09-30 10:31:24: Load data anime to silver layer...
